@@ -34,13 +34,14 @@ A data analysis project focused on understanding employee attrition, job satisfa
 6. **Years at Company:** Most attrition occurred within the first 3 years.
 7. **Satisfaction Correlation:** Employees with lower satisfaction scores were more likely to leave.
 
-
+---
 
 ## 🚀 Tools Used
 
 - **MySQL Workbench**
 - SQL (Subqueries, CASE WHEN, Aggregations, GROUP BY)
 
+---
 
 ## 📊 Future Enhancements
 
